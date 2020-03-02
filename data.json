@@ -1,0 +1,21 @@
+{
+    "basics":{
+    "name":"sevana",
+    "role":"doctor",
+    "email":"susmithapriya2001@gmail.com",
+     "mobile":"7032441150",
+    "education":[
+    {
+        "degree":"ssc",
+        "per":10
+    },
+    {
+        "degree":"inter",
+        "per":98.4
+    },
+    {
+        "degree":"btech",
+        "per":90
+    }] 
+}
+}
